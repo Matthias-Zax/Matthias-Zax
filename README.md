@@ -18,7 +18,8 @@
 </div>
 
 ## I am Matthias ZAX
-- Agile Engineering Coach [Raiffeisenbank International AG](https://www.rbinternational.com/de/raiffeisen.html)
-- Loves a freshly brewed cup of coffee
+- :man_teacher: Agile Engineering Coach @ [Raiffeisenbank International AG](https://www.rbinternational.com/de/raiffeisen.html)
+- :film_strip: Instructor @ [TAU](https://testautomationu.applitools.com/instructors/matthias_zax.html)
+- :coffee: Loves a freshly brewed cup of coffee
 
 <a href="https://github.com/Matthias-Zax/Matthias-Zax"><img src="https://github.com/Matthias-Zax/Matthias-Zax/blob/main/github-metrics.svg" width="400" alt="Matthias Zax's GitHub Metrics"/></a>
