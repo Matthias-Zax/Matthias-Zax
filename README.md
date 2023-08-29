@@ -12,7 +12,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/Matthias-Zax/Matthias-Zax/devcard.svg"
+      src="https://github.com/Matthias-Zax/Matthias-Zax/blob/main/devcard.svg"
     />
   </a>
 </div>
