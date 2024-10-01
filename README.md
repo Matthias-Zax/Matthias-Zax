@@ -29,33 +29,115 @@
         <img src="https://github.com/Matthias-Zax/Matthias-Zax/blob/main/github-metrics.svg" width="400" alt="Matthias Zax's GitHub Metrics" />
     </a>
 
-    <ul>
-        <li>27.06.2024 Vienna DevOps and Security Meetup - Summer Edition: Efficiency Unleashed: A fast and furious approach to Automated Compliance in RBI</li>
-        <li>13.02.2023 5th Agile Engineering Night CEEDACH: GitHub Actions 101</li>
-        <li>07.12.2022 Vienna: Panel Discussion about ML/AI in Test Automation</li>
-        <li>17.10.2022 AutomationStar Munich: GitHub Action Workshop</li>
-        <li>27.09.2022 AgileBosnia: Continuous Security Testing</li>
-        <li>22.09.2022 Enterprise DevOps Summit Berlin: Continuous Security Testing</li>
-        <li>29.07.2022 SeleniumConf22 - DevSecOps on Steroids – Powered by your Selenium tests</li>
-        <li>28.06.2022 TestBustersNightVienna - SAST / DAST / IAST / RASP putting DevSecOps on steroids - Four fists and a Hallelujah</li>
-        <li>20.06.2022 QualityAssuranceGroup - Continuous Security Testing</li>
-        <li>04.05.2022 GermanTestingDay22 - SAST / DAST / IAST / RASP putting DevSecOps on steroids - Four fists and a Hallelujah</li>
-        <li>06.04.2022 ZappleTech - Continuous Security Testing</li>
-        <li>16.02.2022 QA Global Summit 22 - Continuous Security Testing</li>
-        <li>20.11.2021 AgileIndia - "Self-Healing Tests / The holy grail of test automation ... or just much ado about nothing?"</li>
-        <li>21.10.2021 TestExpo - Continuous Security Testing & Panel Discussion</li>
-        <li>30.09.2021 Kyiv.Agile.Engineering.Meetup DevOpsNigh - "SAST / DAST / IAST / RASP putting DevSecOps on steroids - Four fists and a Hallelujah"</li>
-        <li>14.09.2021 SwissTestingDay - "Self-Healing Tests / The holy grail of test automation ... or just much ado about nothing?"</li>
-        <li>18.08.2021 QA Global Summit'21 vol. 2 - "Self-Healing Tests / The holy grail of test automation ... or just much ado about nothing?"</li>
-        <li>03.05.2021 GermanTestingDay - "Self-Healing Tests / The holy grail of test automation ... or just much ado about nothing?"</li>
-        <li>15.04.2021 TestBustersNight&Day - Panel Discussion about Test Automation and AI / ML</li>
-        <li>13.04.2021 Continuous Testing Meetup - "It works on my browser!" is the new "It works on my machine!"</li>
-        <li>06.04.2021 Geekle - "Self-Healing Tests"</li>
-        <li>11.02.2021 Selenium Meetup - "Self-Healing Tests"</li>
-        <li>10.02.2021 OOP - Test Automation in the age of digital banking Darwinism</li>
-        <li>10.12.2020 IT Tage Frankfurt: "It works on my browser!"</li>
-        <li>06.07.2020 Meetup STUG RM - Talk: CrossBrowserTesting</li>
-    </ul>
+    <div class="container">
+        <table>
+            <tr class="year-separator"><td colspan="2">2024 (1 event)</td></tr>
+            <tr>
+                <td>27.06.2024</td>
+                <td>Vienna DevOps and Security Meetup - Summer Edition: Efficiency Unleashed: A fast and furious approach to Automated Compliance in RBI</td>
+            </tr>
+            <tr class="year-separator"><td colspan="2">2023 (1 event)</td></tr>
+            <tr>
+                <td>13.02.2023</td>
+                <td>5th Agile Engineering Night CEEDACH: GitHub Actions 101</td>
+            </tr>
+            <tr class="year-separator"><td colspan="2">2022 (9 events)</td></tr>
+            <tr>
+                <td>07.12.2022</td>
+                <td>Vienna: Panel Discussion about ML/AI in Test Automation</td>
+            </tr>
+            <tr>
+                <td>17.10.2022</td>
+                <td>AutomationStar Munich: GitHub Action Workshop</td>
+            </tr>
+            <tr>
+                <td>27.09.2022</td>
+                <td>AgileBosnia: Continuous Security Testing</td>
+            </tr>
+            <tr>
+                <td>22.09.2022</td>
+                <td>Enterprise DevOps Summit Berlin: Continuous Security Testing</td>
+            </tr>
+            <tr>
+                <td>29.07.2022</td>
+                <td>SeleniumConf22 - DevSecOps on Steroids – Powered by your Selenium tests</td>
+            </tr>
+            <tr>
+                <td>28.06.2022</td>
+                <td>TestBustersNightVienna - SAST / DAST / IAST / RASP putting DevSecOps on steroids - Four fists and a Hallelujah</td>
+            </tr>
+            <tr>
+                <td>20.06.2022</td>
+                <td>QualityAssuranceGroup - Continuous Security Testing</td>
+            </tr>
+            <tr>
+                <td>04.05.2022</td>
+                <td>GermanTestingDay22 - SAST / DAST / IAST / RASP putting DevSecOps on steroids - Four fists and a Hallelujah</td>
+            </tr>
+            <tr>
+                <td>06.04.2022</td>
+                <td>ZappleTech - Continuous Security Testing</td>
+            </tr>
+            <tr class="year-separator"><td colspan="2">2021 (10 events)</td></tr>
+            <tr>
+                <td>16.02.2022</td>
+                <td>QA Global Summit 22 - Continuous Security Testing</td>
+            </tr>
+            <tr>
+                <td>20.11.2021</td>
+                <td>AgileIndia - "Self-Healing Tests / The holy grail of test automation ... or just much ado about nothing?"</td>
+            </tr>
+            <tr>
+                <td>21.10.2021</td>
+                <td>TestExpo - Continuous Security Testing & Panel Discussion</td>
+            </tr>
+            <tr>
+                <td>30.09.2021</td>
+                <td>Kyiv.Agile.Engineering.Meetup DevOpsNigh - "SAST / DAST / IAST / RASP putting DevSecOps on steroids - Four fists and a Hallelujah</td>
+            </tr>
+            <tr>
+                <td>14.09.2021</td>
+                <td>SwissTestingDay - "Self-Healing Tests / The holy grail of test automation ... or just much ado about nothing?"</td>
+            </tr>
+            <tr>
+                <td>18.08.2021</td>
+                <td>QA Global Summit'21 vol. 2 - "Self-Healing Tests / The holy grail of test automation ... or just much ado about nothing?"</td>
+            </tr>
+            <tr>
+                <td>03.05.2021</td>
+                <td>GermanTestingDay - "Self-Healing Tests / The holy grail of test automation ... or just much ado about nothing?"</td>
+            </tr>
+            <tr>
+                <td>15.04.2021</td>
+                <td>TestBustersNight&Day - Panel Discussion about Test Automation and AI / ML</td>
+            </tr>
+            <tr>
+                <td>13.04.2021</td>
+                <td>Continuous Testing Meetup - "It works on my browser!" is the new "It works on my machine!"</td>
+            </tr>
+            <tr>
+                <td>06.04.2021</td>
+                <td>Geekle - "Self-Healing Tests"</td>
+            </tr>
+            <tr>
+                <td>11.02.2021</td>
+                <td>Selenium Meetup - "Self-Healing Tests"</td>
+            </tr>
+            <tr>
+                <td>10.02.2021</td>
+                <td>OOP - Test Automation in the age of digital banking Darwinism</td>
+            </tr>
+            <tr class="year-separator"><td colspan="2">2020 (2 events)</td></tr>
+            <tr>
+                <td>10.12.2020</td>
+                <td>IT Tage Frankfurt: "It works on my browser!"</td>
+            </tr>
+            <tr>
+                <td>06.07.2020</td>
+                <td>Meetup STUG RM - Talk: CrossBrowserTesting</td>
+            </tr>
+        </table>
+    </div>
 </div>
 
 </div>
