@@ -1,3 +1,41 @@
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        .container {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 10px 0;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #16a085;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .year-separator {
+            background-color: #2c3e50;
+            color: white;
+            text-align: left;
+            padding: 8px 12px;
+            font-weight: bold;
+        }
+    </style>
+    
 ## Hi there 👋 - I am Matthias ZAX
 <div align="left">
   <a href="https://www.linkedin.com/in/matthias-zax-40520183/">
