@@ -19,7 +19,7 @@
 
 <div align="left">
   
-- :man_teacher: Agile Engineering Coach @ [Raiffeisenbank International AG](https://www.rbinternational.com/de/raiffeisen.html)
+- :man_teacher: Agile Engineering Coach || DevOps Guild Lead @ [Raiffeisenbank International AG](https://www.rbinternational.com/de/raiffeisen.html)
 - :film_strip: Instructor @ [TAU](https://testautomationu.applitools.com/instructors/matthias_zax.html)
 - :speaking_head:	Conference Speaker
 - :nerd_face:	Test Automation Practitioner
