@@ -33,8 +33,12 @@
 <div style="background-color: #fff; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding: 20px;">
     <table style="width: 100%; border-collapse: collapse; margin: 10px 0;">
        <tr style="background-color: #2c3e50; color: white; text-align: left; padding: 8px 12px; font-weight: bold;">
-            <td colspan="2">2025 (1 event)</td>
+            <td colspan="2">2025 (2 event)</td>
         </tr>
+       <tr style="border-bottom: 1px solid #ddd;">
+            <td style="padding: 12px;">10.12.2025</td>
+            <td style="padding: 12px;">HackAiThon TBSK: 4 Levels of Vibe Coding</td>
+        </tr> 
         <tr style="border-bottom: 1px solid #ddd;">
             <td style="padding: 12px;">17.11.2025</td>
             <td style="padding: 12px;">Continuous Delivery & Automation Summit 2025: Vibe Coding and Test Automation Avengers</td>
